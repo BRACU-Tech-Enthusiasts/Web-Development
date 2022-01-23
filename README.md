@@ -1,4 +1,6 @@
-# Web-Development
-In this repository,  you will find awesome basics and projects related to Web Development
+# A Complete Guide to Web-Development
+(This repository is under construction)
 
-Here you will find HTML, CSS,Bootstrap contents
+In this repository,  you will find a comprehensive guideline on how do become a web developer.
+
+Here you will find contents related to HTML, CSS, Bootstrap, Tailwind, JavaScript, React, NodeJs etc. 
